@@ -11,7 +11,7 @@ const Billing = () => (
         This is our major assignment for the Software Engineering course.
       </p>
     </div>
-    <div className={`flex flex-col-reverse sm:flex-row items-center justify-center`}>
+    <div className={`flex flex-col sm:flex-row items-center justify-center`}>
       <div className={layout.sectionImgReverse}>
         <img src={npl} alt="billing" className="relative z-[5]" />
         {/* gradient start */}
