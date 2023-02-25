@@ -1,6 +1,6 @@
 import { useRive } from "@rive-app/react-canvas";
 import styles from "../style";
-import GetStarted from "./GetStarted";
+// import GetStarted from "./GetStarted";
 
 function Simple() {
   const { rive, RiveComponent } = useRive({
@@ -55,9 +55,9 @@ const Hero = () => {
         {/* gradient end */}
       </div>
 
-      <div className={`ss:hidden ${styles.flexCenter}`}>
+      {/* <div className={`ss:hidden ${styles.flexCenter}`}>
         <GetStarted />
-      </div>
+      </div> */}
     </section>
   );
 };
