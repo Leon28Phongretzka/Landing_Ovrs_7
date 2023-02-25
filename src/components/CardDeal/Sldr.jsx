@@ -44,7 +44,7 @@ const SimpleSlider = ({ slides }) => {
               background: "var(--black-gradient)",
               borderRadius: "20px",
               margin: "10px 10px",
-              padding: "10px",
+              padding: "15px",
             }}
           >
             <div key={data.id} className="flex flex-col px-4 items-center">
