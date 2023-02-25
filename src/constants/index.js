@@ -71,6 +71,14 @@ export const feedback = [
     title: "Freelance Writer",
     img: assets.people03,
   },
+  {
+    id: "feedback-4",
+    content:
+      "Something now need to different and this app can do this very well. I love it.",
+    name: "Doge",
+    title: "Meme",
+    img: assets.doge,
+  },
 ];
 
 export const stats = [
