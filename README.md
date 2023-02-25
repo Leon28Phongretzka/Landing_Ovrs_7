@@ -20,6 +20,7 @@ The Software Engineering Landing Page is built using the following technologies:
 
 - ReactJS
 - Firebase
+- Netlify ( Testing Web )
 
 ## Contributors
 
