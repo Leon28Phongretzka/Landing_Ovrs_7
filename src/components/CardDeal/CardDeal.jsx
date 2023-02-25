@@ -19,7 +19,11 @@ const CardDeal_Slider = () => {
         We are a team of young and talented developers who are passionate about
         building great products.
       </p>
-      <Sldr/>
+      <div className={styles.marginY}>
+      {
+        <Sldr/>
+      }
+      </div>
     </div>
   )
 }
